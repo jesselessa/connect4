@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/connect4/static/css/main.4b2b6519.css",
+    "main.js": "/connect4/static/js/main.8c2e92f0.js",
+    "static/js/787.77f4ac17.chunk.js": "/connect4/static/js/787.77f4ac17.chunk.js",
+    "static/media/kidsroom.jpg": "/connect4/static/media/kidsroom.1912ecaa7dd6c8b1f177.jpg",
+    "static/media/RobotoCondensed-Bold.ttf": "/connect4/static/media/RobotoCondensed-Bold.c5fe6deebafaec078e64.ttf",
+    "static/media/Anton-Regular.ttf": "/connect4/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/OleoScript-Regular.ttf": "/connect4/static/media/OleoScript-Regular.fe131114c0882f16def0.ttf",
+    "static/media/OleoScript-Bold.ttf": "/connect4/static/media/OleoScript-Bold.49551f0a3cf38006d52b.ttf",
+    "index.html": "/connect4/index.html",
+    "main.4b2b6519.css.map": "/connect4/static/css/main.4b2b6519.css.map",
+    "main.8c2e92f0.js.map": "/connect4/static/js/main.8c2e92f0.js.map",
+    "787.77f4ac17.chunk.js.map": "/connect4/static/js/787.77f4ac17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b2b6519.css",
+    "static/js/main.8c2e92f0.js"
+  ]
+}
